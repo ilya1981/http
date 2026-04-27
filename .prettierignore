@@ -1,0 +1,17 @@
+# Ignore artifacts:
+node_modules
+dist
+build
+coverage
+.next
+out
+.cache
+*.min.js
+*.min.css
+*.map
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+Шаг 3. Проверяем работу Prettier
+Создадим файл prettierDemo.js и поместим в него плохо оформленный код:
