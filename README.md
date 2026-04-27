@@ -1,4 +1,4 @@
-
+[![Netology AHJ](https://github.com/ilya1981/http/actions/workflows/main.yml/badge.svg)](https://github.com/ilya1981/http/actions/workflows/main.yml)
 
 # Домашнее задание к занятию "7. Работа с HTTP"
 <dr>https://github.com/netology-code/ahj-homeworks/tree/AHJ-50/http<dr>
